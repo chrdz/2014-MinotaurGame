@@ -1,0 +1,36 @@
+rr00000000001111111111222222222233rr
+rr01234567890123456789012345678901rr
+00EEEEEEEEEEEEEWWEEWWEEEEEEEEEEEEE00
+01EAB                          IJE01
+02EC                            KE02
+03E   WW  H   HHH  HHH   H  WW   E03
+04E       H   H      H   H       E04
+05E       H   H      H   H       E05
+06E  HH  HHH  HHH  HHH  HHH  HH  E06
+07E  H                        H  E07
+08E  H                        H  E08
+09E     H  W  HHH  HHH  W  H     E09
+10E     H  W  H      H  W  H     E10
+11E  HHHH     H      H     HHHH  E11
+12E  H        H  HH  H        H  E12
+13W  H     H            H     H  W13
+14W  H   HHH    aabb    HHH   H  W14
+15E           H a  b H           E15
+16E           H d Mc H           E16
+17W  H   HHH    ddcc    HHH   H  W17
+18W  H     H            H     H  W18
+19E  H        H  HH  H        H  E19
+20E  HHHH     H      H     HHHH  E20
+21E     H  W  H      H  W  H     E21
+22E     H  W  HHH  HHH  W  H     E22
+23E  H                        H  E23
+24E  H                        H  E24
+25E  HH  HHH  HHH  HHH  HHH  HH  E25
+26E       H   H      H   H       E26
+27E       H   H      H   H       E27
+28E   WW  H   HHH  HHH   H  WW   E28
+29EX                            TE29
+30EYZ                          UVE30
+31EEEEEEEEEEEEEWWEEWWEEEEEEEEEEEEE31
+rr00000000001111111111222222222233rr
+rr01234567890123456789012345678901rr
